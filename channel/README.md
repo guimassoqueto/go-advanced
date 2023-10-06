@@ -11,4 +11,4 @@ To fully understand the concept of channels, one also must understand the [*sync
 [Three ways to manage concurrency in Go](https://www.sobyte.net/post/2022-06/go-manage-concurrency/)
 
 ### Videos
-[![Advanced Golang: Channels, Context and Interfaces Explained](https://img.youtube.com/vi/VkGQFFl66X4/0.jpg)](https://www.youtube.com/watch?v=VkGQFFl66X4)
+[![Advanced Golang: Channels](https://img.youtube.com/vi/VkGQFFl66X4/0.jpg)](https://www.youtube.com/watch?v=VkGQFFl66X4&t=15)
